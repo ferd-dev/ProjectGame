@@ -1,0 +1,337 @@
+{
+  "Genres": [
+    {
+      "Name": "Pop",
+      "Artists": [
+        {
+          "Name": "Michael Jackson",
+          "Tracks": [
+            "Nació el 29 de agosto de 1958 en Gary, Indiana, EE. UU.",
+            "Comenzó su carrera musical a una edad temprana como parte de The Jackson 5 junto con sus hermanos.",
+            "Es conocido como 'El rey del pop'.",
+            "Tiene el álbum más vendido de todos los tiempos, 'Thriller'.",
+            "Ganó numerosos premios Grammy a lo largo de su carrera.",
+            "Popularizó el icónico paso de baile conocido como 'moonwalk'.",
+            "Sus sencillos 'Billie Jean' y 'Beat It' son considerados himnos de la música pop.",
+            "Su álbum 'Thriller' es ampliamente reconocido como uno de los álbumes más influyentes de la historia de la música.",
+            "Es uno de los artistas más exitosos y aclamados de todos los tiempos.",
+            "Su legado musical y cultural sigue vivo hasta el día de hoy.",
+            "Su álbum 'Off the Wall' fue uno de los primeros en incluir varios éxitos número uno en Billboard Hot 100.",
+            "Fue el primer artista afroamericano en tener videos musicales rotados regularmente en MTV.",
+            "Su álbum 'Bad' produjo cinco sencillos número uno en Billboard Hot 100.",
+            "Estableció el Heal the World Foundation para ayudar a niños desfavorecidos de todo el mundo.",
+            "Es el único artista en la historia en tener Top 10 hits en Billboard Hot 100 en cada una de las últimas cinco décadas."
+          ]
+        },
+        {
+          "Name": "Madonna",
+          "Tracks": [
+            "Nació el 16 de agosto de 1958 en Bay City, Míchigan, EE. UU.",
+            "Es conocida como 'La Reina del Pop'.",
+            "Ha vendido más de 300 millones de discos en todo el mundo, convirtiéndose en una de las artistas musicales más exitosas de todos los tiempos.",
+            "Es reconocida por su constante reinvención y su estilo provocativo y transgresor.",
+            "Su álbum debut, 'Madonna', fue lanzado en 1983 e incluyó éxitos como 'Holiday' y 'Borderline'.",
+            "Es una de las artistas más influyentes en la historia de la música pop.",
+            "Ha ganado numerosos premios Grammy a lo largo de su carrera.",
+            "Es una pionera en la integración de la música pop con la moda y la cultura visual.",
+            "Su álbum 'Like a Virgin' consolidó su estatus como una superestrella global y produjo éxitos como 'Material Girl' y 'Like a Virgin'.",
+            "Ha actuado en películas y ha recibido elogios por su trabajo como actriz en películas como 'Evita' y 'Desperately Seeking Susan'.",
+            "Es una defensora de los derechos de la comunidad LGBTQ+ y ha sido una voz importante en la lucha contra el VIH/SIDA.",
+            "Ha sido incluida en el Salón de la Fama del Rock and Roll y ha recibido numerosos premios y honores por su contribución a la música y la cultura.",
+            "Es conocida por su capacidad para reinventarse a sí misma y adaptarse a las tendencias cambiantes de la música pop.",
+            "Ha lanzado una serie de álbumes exitosos a lo largo de su carrera, incluyendo 'True Blue', 'Like a Prayer' y 'Ray of Light'.",
+            "Su influencia se extiende más allá de la música, abarcando la moda, el cine, la danza y la cultura pop en general."
+          ]
+        },
+        {
+          "Name": "Britney Spears",
+          "Tracks": [
+            "Nació el 2 de diciembre de 1981 en McComb, Misisipi, EE. UU.",
+            "Es una de las artistas pop más exitosas de la década de 1990 y principios de la década de 2000.",
+            "Saltó a la fama en 1999 con su sencillo debut '...Baby One More Time', que se convirtió en un éxito mundial instantáneo.",
+            "Es conocida por su estilo de baile distintivo y sus actuaciones enérgicas en el escenario.",
+            "Su álbum debut homónimo '...Baby One More Time' vendió más de 10 millones de copias en todo el mundo.",
+            "Ha lanzado una serie de álbumes exitosos a lo largo de su carrera, incluyendo 'Oops!... I Did It Again', 'Britney' y 'In the Zone'.",
+            "Es una de las artistas más influyentes en la música pop contemporánea.",
+            "Ha ganado numerosos premios y reconocimientos, incluidos premios Grammy, premios MTV Video Music Awards y premios Billboard Music Awards.",
+            "Es conocida por su presencia en los medios de comunicación y su impacto en la cultura pop, especialmente durante la década de 2000.",
+            "Ha sido una figura controvertida en la industria del entretenimiento, enfrentando desafíos personales y profesionales a lo largo de su carrera.",
+            "Es una de las artistas más icónicas de su generación y ha dejado un legado duradero en la música pop.",
+            "Ha incursionado en el cine y la televisión, apareciendo en películas como 'Crossroads' y programas de televisión como 'The X Factor'.",
+            "Es una empresaria exitosa, con líneas de perfumes y ropa que llevan su nombre.",
+            "A pesar de los altibajos en su carrera, sigue siendo una de las artistas más queridas y reconocidas en la música pop.",
+            "Ha vendido más de 100 millones de discos en todo el mundo y continúa siendo una fuerza influyente en la industria musical."
+          ]
+        },
+        {
+          "Name": "Justin Timberlake",
+          "Tracks": [
+            "Nació el 31 de enero de 1981 en Memphis, Tennessee, EE. UU.",
+            "Es conocido por su versatilidad como cantante, compositor, actor y productor musical.",
+            "Saltó a la fama como miembro del grupo pop 'N Sync en la década de 1990.",
+            "Después de su éxito con 'N Sync, lanzó una exitosa carrera en solitario.",
+            "Su álbum debut en solitario, 'Justified', fue lanzado en 2002 y produjo éxitos como 'Cry Me a River' y 'Rock Your Body'.",
+            "Es uno de los artistas más exitosos en la historia de la música pop.",
+            "Ha ganado numerosos premios Grammy y otros premios musicales a lo largo de su carrera.",
+            "Es conocido por su estilo musical innovador que fusiona elementos de pop, R&B, funk y hip hop.",
+            "Ha colaborado con varios artistas destacados en la industria de la música, incluidos Timbaland, Pharrell Williams y Jay-Z.",
+            "Es reconocido por su carisma en el escenario y sus espectaculares actuaciones en vivo.",
+            "Ha incursionado en el cine con papeles destacados en películas como 'The Social Network', 'Friends with Benefits' y 'Inside Llewyn Davis'.",
+            "Es un empresario exitoso con inversiones en la industria de la moda, restaurantes y tecnología.",
+            "Es conocido por su activismo y filantropía, apoyando causas como la educación, la igualdad de género y la lucha contra el hambre.",
+            "Es un ícono de la moda, conocido por su estilo único y su capacidad para establecer tendencias.",
+            "A lo largo de su carrera, ha vendido millones de álbumes y sencillos en todo el mundo y sigue siendo una figura influyente en la música y la cultura pop."
+          ]
+        },
+        {
+          "Name": "Lady Gaga",
+          "Tracks": [
+            "Nació el 28 de marzo de 1986 en Nueva York, EE. UU.",
+            "Es conocida por su talento musical, su estilo extravagante y su provocativa presencia en el escenario.",
+            "Saltó a la fama con su álbum debut 'The Fame' en 2008, que incluyó éxitos como 'Just Dance' y 'Poker Face'.",
+            "Es una de las artistas más influyentes en la música pop contemporánea.",
+            "Ha ganado numerosos premios Grammy, premios MTV Video Music Awards y otros premios musicales a lo largo de su carrera.",
+            "Es una defensora de la comunidad LGBTQ+ y ha sido reconocida por su activismo en apoyo a los derechos de las personas LGBTQ+.",
+            "Es conocida por su capacidad para reinventarse a sí misma y sorprender a su audiencia con cada nuevo proyecto.",
+            "Ha incursionado en la actuación, recibiendo elogios por su papel en la serie de televisión 'American Horror Story: Hotel' y la película 'A Star Is Born'.",
+            "Es una artista versátil que experimenta con una amplia gama de géneros musicales, incluidos el pop, el dance, el rock y el jazz.",
+            "Es reconocida por su estilo de moda vanguardista y su capacidad para crear tendencias en la industria de la moda.",
+            "Es conocida por su voz poderosa y su habilidad para ejecutar actuaciones en vivo espectaculares y emocionantes.",
+            "Ha lanzado varios álbumes exitosos a lo largo de su carrera, incluyendo 'Born This Way', 'Artpop' y 'Joanne'.",
+            "Es una artista visionaria que utiliza su plataforma para abordar temas sociales importantes como la igualdad, la diversidad y la aceptación.",
+            "Es una de las artistas más influyentes en la música pop contemporánea, y su legado sigue siendo relevante en la cultura pop actual.",
+            "A lo largo de su carrera, ha vendido millones de álbumes y sencillos en todo el mundo y sigue siendo una figura destacada en la música y el entretenimiento."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Rock",
+      "Artists": [
+        {
+          "Name": "The Beatles",
+          "Tracks": [
+            "Fue una banda de rock británica formada en Liverpool en 1960.",
+            "Está compuesta por cuatro miembros: John Lennon, Paul McCartney, George Harrison y Ringo Starr.",
+            "Es una de las bandas más influyentes y exitosas en la historia de la música popular.",
+            "Ha vendido más de mil millones de discos en todo el mundo.",
+            "Es conocida por su distintivo sonido pop-rock y su innovadora experimentación musical.",
+            "Ha lanzado una serie de álbumes icónicos, incluyendo 'Sgt. Pepper's Lonely Hearts Club Band' y 'Abbey Road'.",
+            "Sus letras inteligentes y su estilo de composición han sido aclamados por críticos y fanáticos por igual.",
+            "Es conocida por su impacto cultural y su contribución al movimiento contracultural de la década de 1960.",
+            "Ha sido reconocida con numerosos premios y honores, incluidos múltiples premios Grammy y la inclusión en el Salón de la Fama del Rock and Roll.",
+            "Su legado musical sigue siendo relevante en la cultura popular actual y ha inspirado a generaciones de músicos.",
+            "Es considerada una de las bandas más influyentes y queridas en la historia de la música.",
+            "Sus miembros han continuado siendo figuras destacadas en la música y la cultura popular después de la disolución de la banda en 1970.",
+            "Ha dejado un legado duradero en la música rock y sigue siendo una fuente de inspiración para músicos de todo el mundo.",
+            "Sus canciones clásicas como 'Hey Jude', 'Let It Be' y 'Yesterday' siguen siendo populares y atemporales hasta el día de hoy.",
+            "Su impacto en la música y la cultura popular sigue siendo evidente en el mundo de la música rock y más allá."
+          ]
+        },
+        {
+          "Name": "Led Zeppelin",
+          "Tracks": [
+            "Led Zeppelin fue una banda de rock británica formada en 1968 en Londres.",
+            "Está compuesta por cuatro miembros: Jimmy Page, Robert Plant, John Paul Jones y John Bonham.",
+            "Es una de las bandas más influyentes en la historia del rock y el heavy metal.",
+            "Es conocida por su distintivo sonido de guitarra, su potente ritmo y su estilo épico y experimental.",
+            "Ha vendido más de 300 millones de discos en todo el mundo.",
+            "Es considerada una de las bandas más influyentes y exitosas en la historia del rock.",
+            "Ha lanzado una serie de álbumes icónicos, incluyendo 'Led Zeppelin', 'Led Zeppelin II' y 'Led Zeppelin IV'.",
+            "Es conocida por su habilidad para mezclar diferentes géneros musicales, incluyendo el blues, el rock and roll, el folk y el hard rock.",
+            "Es reconocida por sus actuaciones en vivo electrizantes y su habilidad para improvisar y extender canciones en el escenario.",
+            "Ha sido reconocida con numerosos premios y honores, incluida la inclusión en el Salón de la Fama del Rock and Roll.",
+            "Es considerada una de las bandas más influyentes en la historia del heavy metal y ha inspirado a innumerables músicos en todo el mundo.",
+            "Su legado musical sigue siendo relevante en la cultura popular actual y continúa influyendo en la música rock y el heavy metal.",
+            "Sus miembros han continuado siendo figuras destacadas en la música y la cultura popular después de la disolución de la banda en 1980.",
+            "Sus canciones clásicas como 'Stairway to Heaven', 'Whole Lotta Love' y 'Kashmir' siguen siendo populares y atemporales hasta el día de hoy.",
+            "Su impacto en la música y la cultura popular sigue siendo evidente en el mundo del rock y más allá."
+          ]
+        },
+        {
+          "Name": "Queen",
+          "Tracks": [
+            "Es una banda de rock británica formada en Londres en 1970.",
+            "Está compuesta por cuatro miembros: Freddie Mercury, Brian May, Roger Taylor y John Deacon.",
+            "Es conocida por su diversidad musical y su habilidad para fusionar diferentes géneros, incluyendo el rock, el pop, el glam rock y el heavy metal.",
+            "Es una de las bandas más influyentes y exitosas en la historia del rock.",
+            "Ha vendido más de 300 millones de discos en todo el mundo.",
+            "Es conocida por sus poderosas actuaciones en vivo y sus elaboradas producciones escénicas.",
+            "Ha lanzado una serie de álbumes icónicos, incluyendo 'A Night at the Opera', 'News of the World' y 'The Game'.",
+            "Es reconocida por sus letras inteligentes, sus arreglos musicales complejos y su distintivo sonido vocal.",
+            "Es conocida por su amplio catálogo de éxitos, incluyendo 'Bohemian Rhapsody', 'We Will Rock You' y 'Somebody to Love'.",
+            "Es reconocida con numerosos premios y honores, incluyendo múltiples premios Grammy y la inclusión en el Salón de la Fama del Rock and Roll.",
+            "Es una de las bandas más queridas y veneradas en la historia del rock, y su legado sigue siendo relevante en la cultura pop actual.",
+            "Sus miembros han continuado siendo figuras destacadas en la música y la cultura popular después de la muerte de Freddie Mercury en 1991.",
+            "Su influencia en la música y la cultura popular sigue siendo evidente en el mundo del rock y más allá.",
+            "Sus canciones clásicas y su impacto en la música y la cultura popular continúan resonando en todo el mundo.",
+            "Es considerada una de las bandas más grandes y legendarias en la historia del rock, y su música sigue siendo atemporal y relevante."
+          ]
+        },
+        {
+          "Name": "Pink Floyd",
+          "Tracks": [
+            "Pink Floyd es una banda de rock británica formada en Londres en 1965.",
+            "Está compuesta por varios miembros a lo largo de su carrera, incluyendo a Roger Waters, David Gilmour, Richard Wright, Nick Mason y Syd Barrett.",
+            "Es conocida por su sonido psicodélico, experimental y progresivo, así como por sus elaboradas producciones en vivo y sus letras introspectivas.",
+            "Es una de las bandas más influyentes en la historia del rock progresivo y el rock psicodélico.",
+            "Ha vendido más de 250 millones de discos en todo el mundo.",
+            "Es conocida por álbumes conceptuales icónicos como 'The Dark Side of the Moon', 'Wish You Were Here' y 'The Wall'.",
+            "Es reconocida por sus espectaculares espectáculos en vivo, que a menudo incluyen efectos visuales y escenografía innovadores.",
+            "Es una banda pionera en el uso de la tecnología en la música, incluyendo sintetizadores, efectos de sonido y grabaciones de campo.",
+            "Es reconocida con numerosos premios y honores, incluyendo premios Grammy y la inclusión en el Salón de la Fama del Rock and Roll.",
+            "Es considerada una de las bandas más innovadoras y visionarias en la historia del rock, y su legado sigue siendo relevante en la cultura pop actual.",
+            "Sus álbumes conceptuales y su enfoque experimental han inspirado a generaciones de músicos y artistas en todo el mundo.",
+            "Su influencia en la música y la cultura popular sigue siendo evidente en el mundo del rock y más allá.",
+            "Sus canciones clásicas y su impacto en la música y la cultura popular continúan resonando en todo el mundo.",
+            "Es considerada una de las bandas más grandes y legendarias en la historia del rock, y su música sigue siendo atemporal y relevante.",
+            "Su habilidad para explorar temas profundos y universales en su música la ha convertido en una de las bandas más queridas y respetadas en la historia del rock."
+          ]
+        },
+        {
+          "Name": "The Rolling Stones",
+          "Tracks": [
+            "Es una banda de rock británica formada en Londres en 1962.",
+            "Está compuesta por varios miembros, incluyendo a Mick Jagger, Keith Richards, Charlie Watts y Ronnie Wood.",
+            "Es una de las bandas más influyentes en la historia del rock and roll.",
+            "Ha vendido más de 240 millones de discos en todo el mundo.",
+            "Es conocida por su distintivo sonido de rock and roll, que fusiona elementos de blues, R&B y rock.",
+            "Ha lanzado una serie de álbumes icónicos, incluyendo 'Sticky Fingers', 'Exile on Main St.' y 'Let It Bleed'.",
+            "Es reconocida por su energética y poderosa actuación en vivo, así como por su longevidad en la industria musical.",
+            "Es considerada una de las bandas más grandes y duraderas en la historia del rock.",
+            "Sus miembros han sido inducidos al Salón de la Fama del Rock and Roll y han recibido numerosos premios y honores a lo largo de su carrera.",
+            "Su legado musical sigue siendo relevante en la cultura pop actual y su influencia en la música rock perdura hasta el día de hoy."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Hip Hop",
+      "Artists": [
+        {
+          "Name": "Eminem",
+          "Tracks": [
+            "Es un rapero estadounidense ampliamente reconocido y aclamado.",
+            "Nació el 17 de octubre de 1972 en St. Joseph, Misuri, EE. UU.",
+            "Es conocido por su nombre real: Marshall Bruce Mathers III.",
+            "Su álbum debut, 'The Slim Shady LP', lanzado en 1999, lo catapultó a la fama internacional.",
+            "Es reconocido por sus letras ingeniosas, rápidas y a menudo controvertidas.",
+            "Ganó el premio Oscar a la Mejor Canción Original por 'Lose Yourself' de la película '8 Mile'.",
+            "Ha vendido más de 220 millones de discos en todo el mundo, convirtiéndose en uno de los artistas musicales más exitosos de todos los tiempos.",
+            "Es conocido por sus álter egos, como Slim Shady y Marshall Mathers, que a menudo aparecen en sus canciones.",
+            "Ha sido objeto de controversia debido a sus letras explícitas y temas controvertidos, pero también es admirado por su habilidad lírica y su impacto en la cultura hip hop.",
+            "Su álbum 'The Marshall Mathers LP' es considerado uno de los álbumes de rap más influyentes de todos los tiempos."
+          ]
+        },
+        {
+          "Name": "Kanye West",
+          "Tracks": [
+            "Es un rapero, productor musical y diseñador de moda estadounidense.",
+            "Nació el 8 de junio de 1977 en Atlanta, Georgia, EE. UU.",
+            "Es conocido por su estilo innovador y su capacidad para desafiar las convenciones en la música y la moda.",
+            "Ha ganado numerosos premios, incluidos varios premios Grammy, por su contribución a la música.",
+            "Es considerado uno de los artistas musicales más influyentes de su generación.",
+            "Ha lanzado una serie de álbumes exitosos, incluyendo 'The College Dropout', 'Late Registration' y 'My Beautiful Dark Twisted Fantasy'.",
+            "Es conocido por sus letras introspectivas y su habilidad para abordar temas sociales y políticos en su música.",
+            "Ha sido objeto de controversia debido a su comportamiento impredecible y sus polémicas declaraciones públicas.",
+            "Además de su carrera musical, también es conocido por su trabajo en la industria de la moda, con su marca Yeezy.",
+            "Su influencia se extiende más allá de la música y la moda, y ha dejado un impacto duradero en la cultura popular."
+          ]
+        },
+        {
+          "Name": "Tupac Shakur",
+          "Tracks": [
+            "Fue un rapero, actor y activista estadounidense.",
+            "Nació el 16 de junio de 1971 en East Harlem, Nueva York, EE. UU.",
+            "Es conocido por su impacto en la cultura hip hop y su influencia duradera en la música.",
+            "Es uno de los raperos más influyentes y respetados de todos los tiempos.",
+            "Ha vendido más de 75 millones de discos en todo el mundo.",
+            "Es conocido por sus letras profundas y poéticas, que a menudo abordan temas como la violencia, la desigualdad racial y la injusticia social.",
+            "Ha lanzado una serie de álbumes clásicos, incluyendo 'All Eyez on Me' y 'Me Against the World'.",
+            "Fue un defensor vocal de los derechos de los afroamericanos y un crítico de la brutalidad policial y la desigualdad en Estados Unidos.",
+            "Fue asesinado trágicamente en un tiroteo en Las Vegas el 13 de septiembre de 1996, a la edad de 25 años.",
+            "A pesar de su muerte prematura, su legado sigue vivo y su música continúa inspirando a millones de personas en todo el mundo."
+          ]
+        },
+        {
+          "Name": "Notorious B.I.G.",
+          "Tracks": [
+            "Notorious B.I.G., también conocido como Biggie Smalls, fue un rapero estadounidense.",
+            "Nació el 21 de mayo de 1972 en Brooklyn, Nueva York, EE. UU.",
+            "Es considerado uno de los raperos más influyentes y talentosos de todos los tiempos.",
+            "Fue uno de los artistas más prominentes de la Costa Este durante la Edad de Oro del hip hop.",
+            "Es conocido por su estilo lírico distintivo y su habilidad para contar historias en sus canciones.",
+            "Su álbum debut, 'Ready to Die', lanzado en 1994, es ampliamente considerado un clásico del hip hop.",
+            "Notorious B.I.G. fue una figura central en la disputa entre las costas Este y Oeste del hip hop en la década de 1990.",
+            "Trágicamente, fue asesinado en un tiroteo en Los Ángeles el 9 de marzo de 1997, a la edad de 24 años.",
+            "A pesar de su muerte prematura, su legado musical sigue siendo relevante y continúa inspirando a artistas y oyentes de hip hop en todo el mundo.",
+            "Su habilidad para fusionar líricas agudas con un carisma único lo convierte en una leyenda indiscutible del rap."
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "Electronic",
+      "Artists": [
+        {
+          "Name": "Daft Punk",
+          "Tracks": [
+            "Es un dúo de música electrónica francés formado por Thomas Bangalter y Guy-Manuel de Homem-Christo.",
+            "La banda se formó en París en 1993 y ha sido una fuerza innovadora en la música electrónica desde entonces.",
+            "Son conocidos por su estilo único, que combina elementos de house, techno y funk.",
+            "Ha lanzado varios álbumes exitosos, incluyendo 'Homework', 'Discovery' y 'Random Access Memories'.",
+            "Su sencillo 'Around the World' se convirtió en un éxito internacional en la década de 1990.",
+            "Son famosos por su enigmática imagen pública, que incluye el uso de cascos y trajes robotizados.",
+            "Ha ganado múltiples premios Grammy a lo largo de su carrera, incluido el Álbum del Año por 'Random Access Memories'.",
+            "En febrero de 2021, anunciaron su separación después de casi 30 años de carrera.",
+            "Su música ha dejado un legado duradero en la música electrónica y ha inspirado a numerosos artistas en todo el mundo.",
+            "Daft Punk es considerado uno de los grupos más influyentes en la historia de la música electrónica."
+          ]
+        },
+        {
+          "Name": "Calvin Harris",
+          "Tracks": [
+            "es un DJ, productor y cantante escocés.",
+            "Nació el 17 de enero de 1984 en Dumfries, Escocia, Reino Unido.",
+            "Es conocido por sus exitosos sencillos de música electrónica y dance pop.",
+            "Ha lanzado varios álbumes de estudio, incluyendo 'I Created Disco', '18 Months' y 'Funk Wav Bounces Vol. 1'.",
+            "Es reconocido por sus colaboraciones con artistas de renombre mundial, incluidos Rihanna, Dua Lipa y Sam Smith.",
+            "Ha ganado numerosos premios, incluidos premios Grammy y premios Brit, por su contribución a la música.",
+            "Es uno de los DJs mejor pagados del mundo y ha encabezado festivales de música electrónica en todo el mundo.",
+            "Es conocido por su habilidad para crear éxitos bailables y pegadizos que dominan las listas de éxitos en todo el mundo"
+          ]
+        },
+        {
+          "Name": "David Guetta",
+          "Tracks": [
+            "Es un DJ y productor francés de música electrónica.",
+            "Nació el 7 de noviembre de 1967 en París, Francia.",
+            "Es uno de los DJs más exitosos y reconocidos a nivel mundial.",
+            "Es conocido por su habilidad para mezclar diferentes géneros musicales, incluyendo house, dance y pop.",
+            "Ha lanzado varios álbumes exitosos, incluyendo 'One Love', 'Nothing but the Beat' y 'Listen'.",
+            "Es famoso por sus colaboraciones con artistas de renombre mundial, incluidos Rihanna, Sia y Nicki Minaj.",
+            "Es uno de los pioneros de la música dance moderna y ha influido en la escena de la música electrónica durante décadas.",
+            "Ha encabezado festivales de música electrónica en todo el mundo y es conocido por sus espectaculares actuaciones en vivo.",
+            "Ha ganado numerosos premios y reconocimientos, incluidos premios Grammy y premios DJ Mag.",
+            "Su música ha dejado un legado duradero en la música electrónica y sigue siendo popular en todo el mundo."
+          ]
+        },
+        {
+          "Name": "Deadmau5",
+          "Tracks": [
+            "Es el nombre artístico del DJ y productor canadiense Joel Zimmerman.",
+            "Nació el 5 de enero de 1981 en Niagara Falls, Ontario, Canadá.",
+            "Es conocido por su distintivo casco de ratón (mau5head) y su estilo único de música electrónica.",
+            "Es una figura prominente en la escena de la música dance y ha ganado una gran base de fanáticos en todo el mundo.",
+            "Ha lanzado varios álbumes exitosos, incluyendo 'Random Album Title', '4x4=12' y 'While(1<2)'.",
+            "Es conocido por sus elaboradas actuaciones en vivo y su innovadora producción musical.",
+            "Ha sido nominado a múltiples premios Grammy y ha ganado numerosos premios en la industria de la música electrónica.",
+            "Es considerado uno de los pioneros de la música electrónica moderna y ha influenciado a una generación de artistas y productores.",
+            "Es conocido por su personalidad franca y su presencia activa en las redes sociales.",
+            "Su música ha dejado un impacto duradero en la música electrónica y sigue siendo popular entre los amantes de la música de baile."
+          ]
+        }
+      ]
+    }
+  ]
+}
