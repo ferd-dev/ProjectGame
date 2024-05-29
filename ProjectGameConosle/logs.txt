@@ -1,0 +1,1 @@
+ERROR: [message: Value cannot be null. (Parameter 'There are no genres to show.')] - [FielName: MainMenu.cs] - [Date: 2024-05-28 Time: 23:14]
